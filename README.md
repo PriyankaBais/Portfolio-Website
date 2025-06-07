@@ -1,5 +1,4 @@
 <b>🚀 React Portfolio Website</b><br><br>
-
 <b>📖 Description:</b><br>
 This is a responsive and modern portfolio website built using React.js. It highlights my projects, skills, and experience with smooth transitions and an elegant UI.<br><br>
 
@@ -17,4 +16,4 @@ This is a responsive and modern portfolio website built using React.js. It highl
 4.  JavaScript<br><br>
 
 <b>👩‍💻 Author:</b><br>
-Priyanka Bais<br><br>
+Priyanka Bais-MCA Student at NIT Kurukshetra><br>
